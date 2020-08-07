@@ -55,11 +55,11 @@ copy_settings_file()
 
 #-------------------------- Functions --------------------------------
 
-# Clones Drupal 8 repository into docroot.
+# Clones Drupal 9 repository into docroot.
 git_clone ()
 {
 	if [[ ! -d "$DOCROOT_PATH" ]]; then
-		echo-green "Cloning Drupal 8"
+		echo-green "Cloning Drupal 9"
 		git clone "$DRUPAL_GIT_REPO" "$DOCROOT_PATH"
 	fi
 }
