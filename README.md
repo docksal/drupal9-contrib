@@ -1,13 +1,13 @@
-# Docksal powered Drupal 8 Core Contribution Installation
+# Docksal-powered Drupal 9 Core Contribution Installation
 
-This is a Drupal 8 installation geared for local Core and Contrib development
+This is a Drupal 9 installation geared for local Core and Contrib development
 for use with Docksal.
 
 [![Build status](https://travis-ci.org/jhedstrom/drupal8-contrib.svg?branch=master)](https://travis-ci.org/jhedstrom/drupal8-contrib?branch=master)
 
 Features:
 
-- Core Drupal 8 repository for local contribution development
+- Core Drupal 9 repository for local contribution development
 - `fin init` [example](.docksal/commands/init)
 - Using the [default](.docksal/docksal.env#L9) Docksal LAMP stack with [image version pinning](.docksal/docksal.env#L13-L15)
 - PHP and MySQL settings overrides [examples](.docksal/etc)
@@ -26,8 +26,8 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/en/maste
 1. Clone this repo into your Projects directory
 
     ```
-    git clone https://github.com/docksal/drupal8-contrib.git drupal8
-    cd drupal8
+    git clone https://github.com/docksal/drupal9-contrib.git drupal9
+    cd drupal9
     ```
 
 2. Initialize the site
