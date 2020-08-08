@@ -2,7 +2,7 @@
 
 #: exec_target = cli
 
-## Creates a phpunit.xml file and runs PHPUnit tests in Drupal 8
+## Creates a phpunit.xml file and runs PHPUnit tests in Drupal 9
 ##
 ## Usage: fin phpunit <args>
 ##
