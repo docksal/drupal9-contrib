@@ -42,7 +42,7 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/en/maste
 3. Point your browser to
 
     ```
-    http://drupal8.docksal
+    http://drupal9.docksal
     ```
 
 When the automated install is complete the command line output will display the admin username and password.
