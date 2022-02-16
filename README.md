@@ -1,6 +1,6 @@
 # Docksal-powered Drupal 9 Core Contribution Installation
 
-This is a Drupal 9 installation geared for local Core and Contrib development
+This is a Drupal 9 (and 10) installation geared for local Core and Contrib development
 for use with Docksal.
 
 [![Build status](https://travis-ci.org/jhedstrom/drupal8-contrib.svg?branch=master)](https://travis-ci.org/jhedstrom/drupal8-contrib?branch=master)
